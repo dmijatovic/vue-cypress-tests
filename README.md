@@ -1,4 +1,4 @@
-# test1
+# Vue tests with Cypress and Docker
 
 This is basic test project created with @vue/cli. It uses router and vuex store management. For testing Jest & Cypress are used.
 
